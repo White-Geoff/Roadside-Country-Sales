@@ -38,7 +38,7 @@ header {
 nav {
     width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     position: sticky;
     top: 250px;
     z-index: 3;
