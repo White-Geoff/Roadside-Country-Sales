@@ -21,7 +21,7 @@ header {
 
         .companyName {
             font-size: 300%;
-            padding: 10px;
+            padding: 5px;
             margin: 0;
         }
 
@@ -35,3 +35,20 @@ header {
         #nameText3 {
             padding-left: 200px;
         }
+
+    nav {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    nav>a {
+        text-decoration: none;
+        padding: 25px;
+    }
+
+
+
+    main {
+        height: 2000px;
+        width: 100%;
+    }
