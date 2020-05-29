@@ -2,3 +2,36 @@ body {
     background: #555;
     color: #ffffff;
 }
+
+header {
+    height: 250px;
+    width: 100%;
+    display: flex;
+}
+
+    #logo {
+        height: 200px;
+        width: 200px;
+        padding: 25px;
+    }
+
+    #nameBox {
+        padding: 25px 25px 25px 150px;
+    }
+
+        .companyName {
+            font-size: 300%;
+            padding: 10px;
+            margin: 0;
+        }
+
+        #nameText1 {
+        }
+
+        #nameText2 {
+            padding-left: 100px;
+        }
+
+        #nameText3 {
+            padding-left: 200px;
+        }
