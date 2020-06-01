@@ -97,7 +97,7 @@ main {
         padding: 50px;
     }
 
-    img {
+    figure>img {
         border: #000 2px solid;
         margin: 25px;
     }
