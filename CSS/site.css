@@ -53,6 +53,7 @@ nav {
 /* Main */
 main {
     width: 100%;
+    text-align: center;
 }
 
     .highlight {
@@ -62,14 +63,19 @@ main {
     }
 
     .highlight>img {
-        width: auto;
-        height: 100%;
+        width: 100%;
+        height: auto;
     }
 
     .highlightText {
         text-align: center;
         padding: 25px;
         max-width: 250px;
+    }
+
+    h1,
+    p {
+        margin: 25px;
     }
 
 
